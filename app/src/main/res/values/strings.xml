@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">趣知</string>
+
+    <string name="navigation_drawer_open" translatable="false">close drawer</string>
+    <string name="navigation_drawer_close" translatable="false">open drawer</string>
+
+    <string name="action_settings">设置</string>
+    <string name="action_about">关于</string>
+    <string name="load_fail">网络被外星人切断，稍后再试吧</string>
+    <string name="activity_news_detail">知乎日报详情</string>
+    <string name="share_title" translatable="false">shared_title</string>
+    <string name="shared_img" translatable="false">shared_img</string>
+    <string name="activity_settings">设置</string>
+    <string name="nva_knowledge">知识</string>
+    <string name="nav_beauty">美图</string>
+    <string name="nav_xxoo" translatable="false">XXOO</string>
+    <string name="app">应用</string>
+    <string name="nav_share">分享</string>
+    <string name="nav_setting">设置</string>
+    <string name="activity_fresh_detail">新鲜事详情</string>
+    <string name="fresh_news">新鲜事</string>
+    <string name="zhihu_news">知乎日報</string>
+    <string name="loading">努力加载中…</string>
+    <string name="my_email" translatable="false">danteandroi@gmail.com</string>
+    <string name="contact_me">联系我</string>
+    <string name="set_clear_cache">清除缓存</string>
+    <string name="set_current_cache">当前缓存为 </string>
+    <string name="set_check_version">检查更新</string>
+    <string name="set_feedback">应用反馈</string>
+    <string name="set_post_feedback">提建议或反馈bug</string>
+    <string name="share_to">分享文章</string>
+    <string name="menu_share">分享</string>
+    <string name="version">版本 1.0</string>
+    <string name="about_me">关于作者</string>
+    <string name="about_me_description">我是一个热爱Google和Android的开发者，如果你有好的idea或建议，不要犹豫，发送邮件跟我交流吧~</string>
+    <string name="license">免责声明</string>
+    <string name="license_description">本APP接口，资源全部来源于网络，如有侵权请告知</string>
+    <string name="column_not_available">栏目未完成，请更新或联系作者 :D</string>
+    <string name="clear_cache_success">缓存已清理</string>
+    <string name="clear_cache_failed">缓存删除失败</string>
+    <string name="original_splash">原始启动图</string>
+    <string name="set_original_splash">使用原始启动图而不是从网络获取</string>
+    <string name="share_app_description">这个Android项目很不错 https://github.com/DanteAndroid/Knowledge/</string>
+    <string name="share_app">分享应用</string>
+    <string name="tips">贴士</string>
+    <string name="tips_content">浏览到下方时，点击标题栏可以快速返回顶部</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hottest">今日热闻</string>
+    <string name="gank">Gank</string>
+    <string name="db">豆瓣美女</string>
+    <string name="db_breast">波涛胸涌</string>
+    <string name="db_butt">悬崖翘臂</string>
+    <string name="db_silk">黑丝控</string>
+    <string name="db_leg">美腿</string>
+    <string name="db_rank">热门</string>
+    <string name="nav_secret_mode">XXOO</string>
+    <string name="secret_mode_opened">隐藏模式已打开，我们一起嘿嘿嘿~</string>
+    <string name="secret_mode_closed">隐藏模式已关闭。</string>
+    <string name="close_app">关闭应用</string>
+    <string name="h_asia">亚洲</string>
+    <string name="h_selfie">自拍</string>
+    <string name="h_street">街拍</string>
+    <string name="h_silk">黑丝</string>
+
+</resources>

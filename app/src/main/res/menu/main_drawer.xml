@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_knowledge"
+            android:icon="@drawable/ic_school_black_48dp"
+            android:title="@string/nva_knowledge"/>
+        <item
+            android:id="@+id/nav_beauty"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/nav_beauty"/>
+
+
+    </group>
+
+    <item android:title="@string/app">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/nav_share"/>
+            <item
+                android:id="@+id/nav_setting"
+                android:icon="@drawable/ic_settings_black_48dp"
+                android:title="@string/nav_setting"/>
+        </menu>
+    </item>
+
+</menu>
